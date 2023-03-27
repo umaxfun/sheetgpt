@@ -62,6 +62,7 @@ You are all set! Now you can query ChatGPT from Google Sheets!
 
 ## Known problems
 ![img.png](media/err1.png)
+
 Sometimes ChatGPT refuses to answer in JSON-only. In most of the cases, slightly changing the request fixes the problem.
 You can retrigger the request by adding a dummy parameter to the method and trace the actual answer in logs manually or using provided `logs.sh` command which tails logs from CloudWatch.
 
