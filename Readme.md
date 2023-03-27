@@ -1,5 +1,5 @@
 # SheetGPT
-Integrates ChatGPT into Google Sheets 
+Integrates ChatGPT into Google Sheets. No middleman reading your prompts involved.
 
 ⚠️ Alpha version, for geeks only ⚠️
 
