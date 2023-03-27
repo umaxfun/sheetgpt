@@ -1,7 +1,7 @@
 # SheetGPT
-Integrates ChatGPT into Google Sheets. No middleman reading your prompts involved.
+Integrates ChatGPT into Google Sheets. No middleman reading your prompts involved. Supports local and AWS deployment using AWS CDK.
 
-⚠️ Alpha version, for geeks only ⚠️
+⚠️ Alpha version, for geeks only ⚠️ 
 
 [![GitHub issues](https://img.shields.io/github/issues/umaxfun/sheetgpt)](https://github.com/umaxfun/sheetgpt/issues)
 [
