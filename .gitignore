@@ -1,0 +1,6 @@
+.env
+.cache
+__pycache__
+.idea
+.venv
+cdk.out
